@@ -1,0 +1,5 @@
+{
+  "name": "Loan vs SIP Strategizer",
+  "description": "A financial calculator to analyze the trade-off between paying off a home loan aggressively (via step-up EMIs and extra payments) versus investing the surplus in SIPs.",
+  "requestFramePermissions": []
+}
